@@ -1,0 +1,1 @@
+#nitializes the server package and sets up the Flask app.
